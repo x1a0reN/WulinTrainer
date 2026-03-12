@@ -379,6 +379,9 @@ lib/
 # Extracted assets
 Assets/extract/
 
+# Nested Unity project inside Assets (duplicated in UnityProject/)
+Assets/Assets/
+
 # Database cache files
 *.db
 
