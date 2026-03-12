@@ -379,3 +379,11 @@ Assets/extract/
 
 # Database cache files
 *.db
+
+# Nested Unity project caches (inside Assets/)
+**/Library/
+**/UserSettings/
+**/Temp/
+
+# TextMesh Pro examples (not needed in repo)
+**/TextMesh Pro/Examples & Extras/
