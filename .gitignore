@@ -381,6 +381,8 @@ Assets/extract/
 
 # Nested Unity project inside Assets (duplicated in UnityProject/)
 Assets/Assets/
+Assets/ProjectSettings/
+Assets/Packages/
 
 # Database cache files
 *.db
