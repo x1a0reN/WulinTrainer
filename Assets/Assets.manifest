@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1265822023
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: toybox
+      Dependencies: {}
